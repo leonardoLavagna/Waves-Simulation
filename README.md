@@ -1,4 +1,7 @@
 # Waves-Simulation
+
+https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov
+
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). In particular:
 1) We will develop the finite-difference algorithms to the **acoustic wave equation in 1D**, discuss boundary conditions and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to toone our simulations will be the von Neumann Analysis
 2) We will develop the solution to the **2D acoustic wave equation**, compare with analytical solutions and demonstrate the phenomenon of numerical (non-physical) anisotropy. We will extend the von Neumann Analysis to 2D and see how to initialize a realistic physical problem. In this context we will observe that 2D solution are already quite powerful to understand complex wave phenomena. 
