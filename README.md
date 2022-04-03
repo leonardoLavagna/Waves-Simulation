@@ -12,3 +12,6 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 7) We will extend the **finite-element method** to the elastic wave equation and compare the solution scheme to the finite-difference method. We will also introduce the concept of h-adaptivity, the space-dependence of the element size for heterogeneous media.
 8) We will use the **spectral-element method** to develop a solution scheme for the 1D elastic wave equation (with Lagrange polynomials as the basis functions of choice).
 9) We finalize the derivation of the spectral-element solution to the elastic wave equation. We will then demonstrate the **numerical solution for homogenous and heterogeneous media**.
+
+## Remark.
+This project is still a working in progress. We will add all the material step by step as the project develops. 
