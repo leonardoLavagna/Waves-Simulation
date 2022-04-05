@@ -2,7 +2,10 @@
 
 https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov
 
-The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). In particular:
+The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). 
+
+## Planning
+
 1) We will develop the finite-difference algorithms to simulate the **acoustic wave equation in 1D**, and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to toone our simulations will be the von Neumann Analysis. See **Notebook 5** and **Notebook 6**.
 2) We will develop the solution to the **2D acoustic wave equation**, compare with analytical solutions and demonstrate the phenomenon of numerical (non-physical) anisotropy. We will extend the von Neumann Analysis to 2D and see how to initialize a realistic physical problem. In this context we will observe that 2D solution are already quite powerful to understand complex wave phenomena. 
 3) We will introduced the **1D elastic wave equation** and use staggered-grid schemes with the coupled first-order velocity-stress formulation.
@@ -15,3 +18,6 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 
 ## Remark.
 This project is still a working in progress. We will add all the material step by step as the project develops. 
+
+## Updates
+Part 1) of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^)
