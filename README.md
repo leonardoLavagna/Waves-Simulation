@@ -1,6 +1,6 @@
 # Waves-Simulation
 
-https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov
+(https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov= =250x250)
 
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
 - **Part_1** deals with the *acoustic wave equation in 1D*. In this part we will implement (in Python) reliable *finite difference methods* to simulate the solutions, in particular we will 
