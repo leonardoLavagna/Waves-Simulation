@@ -20,4 +20,5 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 This project is still a working in progress. We will add all the material step by step as the project develops. 
 
 ## Updates
-Part 1 of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^)
+- **Apr. 5, 2022:** Part 1 of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^). 
+- **Apr. 7, 2022:** Part 1 of the project has been inspected and some minor errors have been corrected. Part 1 is made of Notebooks 1,2,3,4,5,6 and is made available in a single folder (where Notebook 1 is empty because we still have to write it...).
