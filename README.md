@@ -1,5 +1,5 @@
 # Waves-Simulation
-
+<img src="https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov=" width="400" height="200" />
 (https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov= =250x250)
 
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
