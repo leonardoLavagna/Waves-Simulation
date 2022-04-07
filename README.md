@@ -2,11 +2,19 @@
 
 https://user-images.githubusercontent.com/91341004/161398820-759087b1-d4d8-41cb-8d44-19dfcdb45cbe.mov
 
-The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). 
+The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
+- **Part_1** deals with the *acoustic wave equation in 1D*. In this part we will implement (in Python) reliable *finite difference methods* to simulate the solutions, in particular we will 
+- **Part_2** working in progress...
+- ...
+
+## Updates
+- **Apr. 1, 2022** Project start. 
+- **Apr. 5, 2022:** Part 1 of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^). 
+- **Apr. 7, 2022:** Part 1 of the project has been inspected and some minor errors have been corrected. Part 1 is made of Notebooks 1,2,3,4,5,6 and is made available in a single folder (where Notebook 1 is empty because we still have to write it...).
 
 ## Planning
 
-1) We will develop the finite-difference algorithms to simulate the **acoustic wave equation in 1D**, and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to toone our simulations will be the von Neumann Analysis. See **Notebook 5** and **Notebook 6**.
+1) We will develop the finite-difference algorithms to simulate the **acoustic wave equation in 1D**, and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to tune our simulations will be the von Neumann Analysis. 
 2) We will develop the solution to the **2D acoustic wave equation**, compare with analytical solutions and demonstrate the phenomenon of numerical (non-physical) anisotropy. We will extend the von Neumann Analysis to 2D and see how to initialize a realistic physical problem. In this context we will observe that 2D solution are already quite powerful to understand complex wave phenomena. 
 3) We will introduced the **1D elastic wave equation** and use staggered-grid schemes with the coupled first-order velocity-stress formulation.
 4) We will use the discrete Fourier series and highlight their exact interpolation properties on regular spatial grids. We will then introduce the derivative of functions using discrete Fourier transforms and use it to solve the 1D and **2D acoustic wave equation**.
@@ -16,9 +24,4 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 8) We will use the **spectral-element method** to develop a solution scheme for the 1D elastic wave equation (with Lagrange polynomials as the basis functions of choice).
 9) We finalize the derivation of the spectral-element solution to the elastic wave equation. We will then demonstrate the **numerical solution for homogenous and heterogeneous media**.
 
-## Remark.
 This project is still a working in progress. We will add all the material step by step as the project develops. 
-
-## Updates
-- **Apr. 5, 2022:** Part 1 of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^). 
-- **Apr. 7, 2022:** Part 1 of the project has been inspected and some minor errors have been corrected. Part 1 is made of Notebooks 1,2,3,4,5,6 and is made available in a single folder (where Notebook 1 is empty because we still have to write it...).
