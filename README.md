@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/91341004/162207095-119297ef-a68c-4d2c-
 
 
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
-- **Part_1** deals with the *acoustic wave equation in 1D*. In this part we will implement (in Python) reliable *finite difference methods* to simulate the solutions, in particular we will 
+- **Part_1** deals with the *acoustic wave equation in 1D*. In this part we will implement (in Python) reliable *finite difference methods* to simulate the solutions, in particular we will initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions) that we try reduce using the CFL criterion.
 - **Part_2** working in progress...
 - ...
 
