@@ -1,7 +1,8 @@
 # Waves-Simulation
 
 
-https://user-images.githubusercontent.com/91341004/162207095-119297ef-a68c-4d2c-9df2-579d18c4737d.mov
+https://user-images.githubusercontent.com/91341004/162983904-d376018e-e1c8-43ec-9a4f-6abcaff7dce1.mov
+
 
 
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
@@ -13,7 +14,7 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 1, 2022** Project start. 
 - **Apr. 5, 2022:** Part 1 of the project is completed except for Notebook 1 we are still writing (it is not unlikely that the first notebook will be the last we will upload ^.^). 
 - **Apr. 7, 2022:** Part 1 of the project has been inspected and some minor errors have been corrected. Part 1 is composed by Notebooks 1,2,3,4,5,6 and is made available in a single folder (where Notebook 1 is empty because we still have to write it...).
-
+- **Apr. 12, 2022:** First simulation of Part 2. Uploaded notebook 7,8
 ## Planning
 
 1) We will develop the finite-difference algorithms to simulate the **acoustic wave equation in 1D**, and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to tune our simulations will be the von Neumann Analysis. 
