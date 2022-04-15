@@ -16,6 +16,7 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 7, 2022:** Part 1 of the project has been inspected and some minor errors have been corrected. Part 1 is composed by Notebooks 1,2,3,4,5,6 and is made available in a single folder (where Notebook 1 is empty because we still have to write it...).
 - **Apr. 12, 2022:** First simulation of Part 2. Uploaded Notebook 7.
 - **Apr. 13, 2022:** Discussion of fault zones and earthquakes that happen at depth and related simulations. Uploaded Notebook 8.
+- **Apr. 15, 2022:** Discussion of the staggered-grid approach and other optimizations. 1D elastic wave equation. Uploaded Notebook 9 and 10.
 ## Planning
 
 1) We will develop the finite-difference algorithms to simulate the **acoustic wave equation in 1D**, and how to initialize a simulation example. We will look at solutions using the Python implementation and observe numerical artifacts (dispersion and exploding solutions), then we will apply the CFL criterion to obtain a conditionally stable algorithm for explicit finite-difference schemes. An important tool we will use to tune our simulations will be the von Neumann Analysis. 
