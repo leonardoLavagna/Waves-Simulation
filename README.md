@@ -17,5 +17,5 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 7, 2022:** Part 2 of the project  is completed.
 - **Apr. 12, 2022:** First simulation of Part 3. Uploaded Notebook 7.
 - **Apr. 13, 2022:** Discussion of fault zones and earthquakes that happen at depth and related simulations. Uploaded Notebook 8. Part 3 of the project is completed.
-- **Apr. 15, 2022:** Review of previous parts and minor corrections. First version of Part 1, Part 2 and Part 3.
+- **Apr. 15, 2022:** Review of previous parts and minor corrections. First version of Part 1, Part 2 and Part 3. Note that all the previous versions of the notebook have been delated.
 
