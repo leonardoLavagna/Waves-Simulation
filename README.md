@@ -8,8 +8,9 @@ https://user-images.githubusercontent.com/91341004/162983904-d376018e-e1c8-43ec-
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
 
 - **Part_I** Introduction (Notebook 1 yet to write) and numerical methods to accurately deal with derivatives.
-- **Part_II** Simulations about 1D acoustic wave equations
-- **Part_III** Simulations about 2D acoustic wave equations
+- **Part_II** Simulations of 1D acoustic wave equations
+- **Part_III** Simulations of 2D acoustic wave equations
+- **Part_IV** Simulations of 1D elastic wave equations
 - ...
 
 ## Updates
