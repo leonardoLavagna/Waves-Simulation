@@ -22,4 +22,5 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 15, 2022:** Review of previous parts and minor corrections. First version of Part 1, Part 2 and Part 3. Note that all the previous versions of the notebook have been delated.
 - **Apr. 16, 2022:** 1D elastic wave equation. Discussion of staggered grids. Part 4 of the project is completed.
 - **Apr. 20, 2022:** Review of part 4. Discussion of Pseudo-Spectral methods for the acoustic wave equation. Uploaded Notebooks 11 and 12.
+- **Apr. 20, 2022:** Pseudo-Spectral methods for 1D elastic wave equations. Uploaded Notebooks 13 and 14. We need to reorganize the folders: Fourier method in Part 1 etc...
 
