@@ -26,4 +26,4 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 21, 2022:** Pseudo-Spectral methods for 1D elastic wave equations. Uploaded Notebooks 13 and 14. We need to reorganize the folders: Fourier method in Part 1 etc...
 - **Apr. 22, 2022:** Complete revision of the previous parts. Minor fixes.
 - **Apr. 23, 2022:** Upload of the corrected Notebooks. The numeration of the Notebooks has slightly changed. The first half of the project is now completed (first version).
-
+- **Apr. 23, 2022:** Added Notebook 15 in Part IV. Discussion of weak forms of the equations and the Galerkin Principle. 
