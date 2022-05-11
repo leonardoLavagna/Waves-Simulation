@@ -7,12 +7,9 @@ https://user-images.githubusercontent.com/91341004/162983904-d376018e-e1c8-43ec-
 
 The main goal of this project is to provide (in Python) a variety of tools to approach some problems related to wave equations (with applications mainly in seismology). The projects is divided into different parts:
 
-- **Introduction** Introduction (Notebook 1 yet to write) about wave equations. Analytic solutions and main mathematical properties.
 - **Part_I** Numerical methods to accurately deal with derivatives.
-- **Part_II** Simulations of 1D acoustic wave equations
-- **Part_III** Simulations of 2D acoustic wave equations
-- **Part_IV** Simulations of 1D elastic wave equations
-- ...
+- **Part_II** Simulations of acoustic wave equations
+- **Part_III** Simulations of elastic wave equations
 
 ## Updates
 - **Apr. 1, 2022** Project start. 
@@ -27,4 +24,5 @@ The main goal of this project is to provide (in Python) a variety of tools to ap
 - **Apr. 22, 2022:** Complete revision of the previous parts. Minor fixes.
 - **Apr. 23, 2022:** Upload of the corrected Notebooks. The numeration of the Notebooks has slightly changed. The first half of the project is now completed (first version).
 - **May 9, 2022:** Added Notebook 15 and Notebook 16 in Part IV. Discussion of weak forms of the equations and the Galerkin Principle. 
-- **May 11, 2022:** Uploaded Notebook 17 and Changed Notebook 11. With this the project is completed and we are starting its review. The Introduction Part is still not available.
+- **May 10, 2022:** Uploaded Notebook 17 and Changed Notebook 11. With this the project is completed and we are starting its review. The Introduction Part is still not available.
+- **May 11, 2022:** Renumbered Parts and notebooks. Minor fixes. 
